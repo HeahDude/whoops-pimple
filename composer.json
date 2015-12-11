@@ -1,5 +1,5 @@
 {
-    "name": "texthtml/whoops-pimple",
+    "name": "heahdude/whoops-pimple",
     "description": "Integrates the Whoops library into Pimple",
     "keywords": ["pimple", "whoops", "silex", "error", "exception"],
     "license": "AGPL-3.0",
